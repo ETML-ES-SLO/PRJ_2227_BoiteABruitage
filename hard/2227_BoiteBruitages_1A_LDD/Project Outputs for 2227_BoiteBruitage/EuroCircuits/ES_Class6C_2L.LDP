@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\Projet\rendu design\Hardware\PCB_Project\ES_Class6C_2L.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=es_class6c_2l.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=es_class6c_2l-rectholes.txt|DrillLayers=gtl,gbl
